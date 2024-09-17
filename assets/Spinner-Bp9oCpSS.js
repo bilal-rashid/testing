@@ -1,0 +1,1 @@
+import{j as d}from"./index-F0uvlsHd.js";import{c as i}from"./clsx-B-dksMZM.js";const p=({tag:t="div",type:r="bordered",className:o,color:s,size:e,children:a})=>{const n=t||"div";return d.jsx(n,{role:"status",className:i({"spinner-border":r==="bordered","spinner-grow":r==="grow"},s?`text-${s}`:"text-secondary",{[`avatar-${e}`]:e},o),children:a})};export{p as S};
